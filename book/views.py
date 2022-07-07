@@ -17,3 +17,5 @@ def allbook(request):
 def hardcover(request):
     print('nice book')
     
+def video_creation(request):
+    print("inside video")
