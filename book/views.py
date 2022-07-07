@@ -19,3 +19,6 @@ def hardcover(request):
     
 def video_creation(request):
     print("inside video")
+
+def new_func():
+    pass
