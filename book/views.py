@@ -22,3 +22,6 @@ def video_creation(request):
 
 def new_func():
     pass
+
+def showvideo(request):
+    print("Here you can see video")
