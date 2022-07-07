@@ -17,3 +17,6 @@ def allbook(request):
 def hardcover(request):
     print('nice book')
     
+
+def new_func():
+    pass
