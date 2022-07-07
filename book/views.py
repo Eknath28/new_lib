@@ -13,3 +13,7 @@ def allbook(request):
     stud = Book.objects.all()
     data = {"data":stud}
     return render(request,"home.html", context=data)
+
+def hardcover(request):
+    print('nice book')
+    
