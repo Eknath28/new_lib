@@ -22,3 +22,6 @@ def video_creation(request):
 
 def new_func():
     pass
+
+def trial():
+    pass
