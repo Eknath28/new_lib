@@ -23,8 +23,13 @@ def video_creation(request):
 def new_func():
     pass
 
+
+def trial():
+    pass
+
 def showvideo(request):
     print("Here you can see video")
 
 def f_branch(request):
     print("Eknath f branch")    
+
